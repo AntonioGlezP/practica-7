@@ -1,0 +1,36 @@
+
+*{
+	margin:0;
+	padding:0;
+	
+}
+body{
+	  background-color:#607D8B;
+     }
+	 
+div{ background-color:#FF3D00;
+     height:220px;
+	 text-align:center;
+	
+    }
+/* identificador	 */
+#encabezado{
+	         background-color:#FF9800;
+			 height:200px;
+			 text-align:center;
+           }	
+/* clase */
+.pieDePagina{
+           	background-color:#FF5722;
+	        height:100px;
+			width:100%;
+			bottom:0;
+			color:white;
+			position:fixed;
+			left:0px;
+}	
+ p{
+		 font-family:Georgia,Times;
+		 font-size:16px;
+		 color:white;
+	 }
